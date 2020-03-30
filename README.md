@@ -5,8 +5,8 @@ Technologies Used:- Octave for modeling, Advanced control systems, embedded syst
 
 Project Images:-
 
-![]()
+![](https://github.com/bhaskarsdose/LQR-Bases-Self-Balancing-Bot/blob/master/Documents%20%26%20Images/2.jpeg)
 
 one more...
 
-![]()
+![](https://github.com/bhaskarsdose/LQR-Bases-Self-Balancing-Bot/blob/master/Documents%20%26%20Images/1.jpeg)
